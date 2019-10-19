@@ -1,4 +1,4 @@
-# RAVE JAVA 🍻 [![Build Status](https://travis-ci.org/cleopatra27/rave-java.svg?branch=master)](https://travis-ci.org/cleopatra27/rave-java)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.flutterwave/Rave-Java/badge.svg)](https://mvnrepository.com/artifact/com.flutterwave/Rave-Java)
+# RAVE JAVA 🍻 [![Build Status](https://travis-ci.org/Flutterwave/rave-java.svg?branch=master)](https://travis-ci.org/Flutterwave/rave-java)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.flutterwave/Rave-Java/badge.svg)](https://mvnrepository.com/artifact/com.flutterwave/Rave-Java)
 ---
 Services implemented are:
 ---
