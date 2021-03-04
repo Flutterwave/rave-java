@@ -68,7 +68,7 @@ Usage:
 ## Direct Charge
 ```java
 cardPayment cardPayment = new cardPayment();
-cardLoad cardload = new cardLoad cardload();
+cardLoad cardload = new cardLoad();
 cardload.setPublic_key(PBFPubKey);
 cardload.setCardno(cardno);
 cardload.setCvv(cvv);
